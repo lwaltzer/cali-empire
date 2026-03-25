@@ -42,7 +42,7 @@ Agenda:
 **Label:** About CALI
 Four interconnected areas
 
-**Stage (step-grid):**
+**Stage:**
 1. **Faculty Development**
 2. **Research**
 3. **Research and Development**
