@@ -1,6 +1,6 @@
-# Critical AI Literacy Institute -- Brooklyn College, March 25, 2026
+# Critical AI Literacy Institute -- Empire AI Education Collective, April 29, 2026
 
-> **Presented by Luke Waltzer, Laurie Hurson, Zach Muhlbauer**
+> **Presented by Luke Waltzer**
 > Teaching and Learning Center, CUNY Graduate Center
 > **Source: `index.html`**
 
